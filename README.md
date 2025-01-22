@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruddropust&show_icons=true&locale=en" alt="ruddropust" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruddropust&" alt="ruddropust" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruddropust&" alt="ruddropust not show" /></p>

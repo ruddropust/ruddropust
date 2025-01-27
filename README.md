@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Ecommerce](https://github.com/ruddropust/Ecommerce)<br><br>- 🌱 I’m currently learning [JavaScript](https://github.com/ruddropust/JS-Learn)<br><br>- 👯 I’m looking to collaborate on [Ecommerce](https://github.com/ruddropust/Ecommerce)<br><br>- 🤝 I’m looking for help with [Android App development](https://github.com/ruddropust/SAACP-Project)<br><br>- 💬 Ask me about **ML Algorithm, React**
+- 🔭 I’m currently working on [Ecommerce](https://github.com/ruddropust/Ecommerce)<br><br>- 🌱 I’m currently learning [JavaScript](https://github.com/ruddropust/JS-Learn)<br><br>- 👯 I’m looking to collaborate on **Research Paper Publication**<br><br>- 🤝 I’m looking for help with [Android App development](https://github.com/ruddropust/SAACP-Project)<br><br>- 💬 Ask me about **ML Algorithm, React**
 
 
 ## 🌐 Socials:

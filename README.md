@@ -18,7 +18,7 @@
 </div>
 
 ## 🏆 GitHub Contributions
-![snake gif](https://github.com/ruddropust/ruddropust/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ruddropust/ruddropust/blob/output/github-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

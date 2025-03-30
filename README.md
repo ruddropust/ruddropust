@@ -17,7 +17,7 @@
   </a>
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Contributions
 ![snake gif](https://github.com/ruddropust/ruddropust/blob/output/github-snake-dark.svg)
 
 ### ✍️ Random Dev Quote

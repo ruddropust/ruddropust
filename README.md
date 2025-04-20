@@ -20,17 +20,17 @@
 ## GitHub Contributions
 ![snake gif](https://github.com/ruddropust/ruddropust/blob/output/github-snake-dark.svg)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed 
 ![](https://github-contributor-stats.vercel.app/api?username=ruddropust&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ruddropust&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=ruddropust&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruddropust&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruddropust&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
